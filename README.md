@@ -6,6 +6,7 @@ Currently only shows branch direction predictions (taken or not taken), not bran
 Note that this tool is simply to be used for visualizing and better understanding branch prediction accuracy of different branch prediction methods under different branch patterns, not for rigorous testing for comparison between the methods.
 # References
 cynthia wang-Branch-prediction-visualization
+
 McFarling, "Combining Branch Predictors," DEC WRL Technical Report, 1993.
 
 Yeh and Patt, "Two-Level Adaptive Training Branch Prediction," MICRO 1991.
