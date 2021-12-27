@@ -7,6 +7,8 @@ Note that this tool is simply to be used for visualizing and better understandin
 # References
 cynthia wang-Branch-prediction-visualization
 McFarling, "Combining Branch Predictors," DEC WRL Technical Report, 1993.
+
 Yeh and Patt, "Two-Level Adaptive Training Branch Prediction," MICRO 1991.
+
 # Contributors
 Jafarsadiq Mukti, Asifali
